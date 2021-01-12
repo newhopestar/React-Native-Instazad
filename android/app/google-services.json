@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1091028992686",
+    "firebase_url": "https://instazad-da326.firebaseio.com",
+    "project_id": "instazad-da326",
+    "storage_bucket": "instazad-da326.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1091028992686:android:079a017569b7e20858e33f",
+        "android_client_info": {
+          "package_name": "com.instazad"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1091028992686-279o7hpc6sq63j5ra46akstnfv1ildhs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDkZPbwulLo8UwMf4KfRcavJrYLH6gmVII"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1091028992686-279o7hpc6sq63j5ra46akstnfv1ildhs.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1091028992686-vo4vss296g8ft14p1uae00fpfpqn7dnp.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.instazad"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
